@@ -12,7 +12,7 @@ console.log('Starting async/await ...');
 async function runDashboard() {
   try {
     const geoData: { city?: string } = await fetchData(geoIPURL);
-    const city = geoData.city || 'Johannesburg';
+    const city = geoData.city || 'pretoria';
     console.log(`City: ${city}`);
 
     const geoLookupURL = `${GEO_URL}/direct?q=${city}&limit=1&appid=${WEATHER_API_KEY}`;
