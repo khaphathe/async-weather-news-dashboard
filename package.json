@@ -5,6 +5,8 @@
   "main": "index.js",
  "scripts": {
   "callback": "ts-node src/callBack/callback.ts"
+  ,"promise": "ts-node src/promises/promise.ts"
+  ,"asyncawait": "ts-node src/asyncAwait/asyncAwait.ts"
 }
 ,
 
