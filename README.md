@@ -17,12 +17,8 @@ A modular Node.js + TypeScript dashboard that fetches live weather and news head
 
 --------------------------
 
-
----
-
 ## Setup
-
-1.Clone the repo:git clone https://github.com/khaphathe/async-weather-news-dashboard.git
+1.Clone the repo: git clone https://github.com/khaphathe/async-weather-news-dashboard.git
 2. cd async-weather-news-dashboard
 3.code .
 4.Install dependencies:npm install
