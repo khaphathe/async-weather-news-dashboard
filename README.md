@@ -23,12 +23,11 @@ A modular Node.js + TypeScript dashboard that fetches live weather and news head
 ## Setup
 
 1.Clone the repo:
-   (bash)
    -git clone https://github.com/khaphathe/async-weather-news-dashboard.git
-   -cd async-weather-news-dashboard
-
-2.Install dependencies:
--npm install
+2. cd async-weather-news-dashboard
+3.code .
+4.Install dependencies:
+- npm install
 3.Add your OpenWeatherMap API key:
 -Replace WEATHER_API_KEY in all .ts files with your actual key.
 
